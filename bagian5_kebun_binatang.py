@@ -2,6 +2,7 @@
 # BAGIAN 5 – Class KebunBinatang
 # Anggota  : [Faris Rafiuddin Hannan]
 # NIM      : [K3525058]
+# Kelas    : B
 # Prinsip  : SRP, Encapsulation, menggunakan Polymorphism
 # ============================================================
 
