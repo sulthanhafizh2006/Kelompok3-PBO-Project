@@ -1,6 +1,6 @@
 # ============================================================
 # BAGIAN 5 – Class KebunBinatang
-# Anggota  : [Faris Rafiuddin Hannan]
+# Anggota  : [Nama Anggota 5]
 # Prinsip  : SRP, Encapsulation, menggunakan Polymorphism
 # ============================================================
 
